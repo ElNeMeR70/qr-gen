@@ -1,0 +1,32 @@
+{
+  "name": "@elnemer70/qr-gen",
+  "version": "1.0.0",
+  "description": "Generate fast QR codes for links, text, and Wi-Fi credentials",
+  "bin": {
+    "qr-gen": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "qr",
+    "qrcode",
+    "generator"
+  ],
+  "author": "ElNeMeR70",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNeMeR70/qr-gen.git"
+  },
+  "homepage": "https://github.com/ElNeMeR70/qr-gen#readme",
+  "bugs": {
+    "url": "https://github.com/ElNeMeR70/qr-gen/issues"
+  }
+}
